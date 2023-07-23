@@ -28,6 +28,7 @@ Langkah - Langkah Menggunakan :
 13. Jika sudah, selamat melakukan konsultasi
 14. jika tidak ingin melakukan konsultasi, silahkan log out
 
+
 Langkah - Langkah Mengubah User :
 1. Jika sudah register silahkan masuk pada login dengan mengisi username dan password
 2. Setelah itu, silahkan untuk menekan nama dengan garis bawah yang terletak di pojok atas sebelah kanan
@@ -35,6 +36,7 @@ Langkah - Langkah Mengubah User :
 4. Lakukan perubahan yang sesuai dengan kebutuhan anda
 5. klik simpan
 6. Maka informasi anda akan tersimpan
+
 
 Informasi Tambahan : Kategori Menu Yang Disajikan :
 - Skincare
